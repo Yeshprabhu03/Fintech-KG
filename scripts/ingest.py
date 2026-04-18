@@ -2,6 +2,7 @@ import feedparser
 import google.generativeai as genai
 import os
 import yaml
+import time
 from datetime import date
 from pathlib import Path
 from dotenv import load_dotenv
@@ -9,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-model = genai.GenerativeModel("gemini-1.5-flash")
+model = genai.GenerativeModel("gemini-2.0-flash")
 
 SOURCES = [
     "https://www.bis.org/rss.htm",
@@ -69,7 +70,7 @@ def ingest():
             break
 
         feed = feedparser.parse(url)
-        for entry in feed.entries[:2]:
+        for entry in feed.entries[:1]:
             title = entry.get("title", "Untitled")[:60]
             summary = entry.get("summary", entry.get("description", ""))[:3000]
 
@@ -93,6 +94,7 @@ def ingest():
             note_path.write_text(response.text)
             print(f"Ingested: {safe_title}")
             added += 1
+            time.sleep(20)
 
     print(f"Done. {added} new drafts in _Inbox.")
 
