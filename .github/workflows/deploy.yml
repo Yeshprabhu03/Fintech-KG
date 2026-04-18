@@ -27,10 +27,10 @@ jobs:
           node-version: 22
 
       - name: Install Quartz dependencies
-        run: npm install
+        run: npm ci
 
       - name: Build Quartz site
-        run: npx quartz build
+        run: npx quartz build --bundled-cjs
 
       - uses: actions/upload-pages-artifact@v3
         with:
