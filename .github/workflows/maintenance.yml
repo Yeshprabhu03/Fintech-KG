@@ -1,0 +1,33 @@
+name: Weekly Maintenance
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'   # Every Monday 9am UTC
+  workflow_dispatch:        # Manual trigger from GitHub UI
+
+jobs:
+  maintain:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run decay check
+        run: python scripts/decay_check.py
+
+      - name: Run RSS ingestion
+        run: python scripts/ingest.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "auto: weekly maintenance [skip ci]"
+          commit_author: "Fintech Brain Bot <bot@fintech-brain.dev>"
