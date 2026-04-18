@@ -15,5 +15,8 @@ Map of Content for Stablecoins & Crypto Rails.
 ## Key Notes
 - [[Stablecoin Settlement Mechanics]]
 
+## Notes
+- [[Stablecoin Settlement Mechanics]]
+
 ## Connections
 - 

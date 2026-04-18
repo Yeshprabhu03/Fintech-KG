@@ -15,5 +15,8 @@ Map of Content for Company Teardowns.
 ## Key Notes
 - [[Stripe Teardown]]
 
+## Notes
+- [[Stripe Teardown]]
+
 ## Connections
 - 

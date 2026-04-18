@@ -15,5 +15,8 @@ Map of Content for Embedded Finance.
 ## Key Notes
 - [[Embedded Finance Stack]]
 
+## Notes
+- [[Embedded Finance Stack]]
+
 ## Connections
 - 

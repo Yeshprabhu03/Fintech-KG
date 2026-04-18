@@ -15,5 +15,8 @@ Map of Content for Frameworks & Models.
 ## Key Notes
 - [[Four-Party Payment Model]]
 
+## Notes
+- [[Four-Party Payment Model]]
+
 ## Connections
 - 

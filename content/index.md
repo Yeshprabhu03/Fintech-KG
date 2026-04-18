@@ -14,16 +14,16 @@ tokenization — knowledge that is normally locked inside banks and consulting f
 
 ## Domains
 
-- [[01 - Payments Infrastructure/Payments Infrastructure|Payments Infrastructure]]
-- [[02 - Banking & Regulation/Banking & Regulation|Banking & Regulation]]
-- [[03 - Embedded Finance/Embedded Finance|Embedded Finance]]
-- [[04 - Stablecoins & Crypto Rails/Stablecoins & Crypto Rails|Stablecoins & Crypto Rails]]
-- [[05 - Lending Infrastructure/Lending Infrastructure|Lending Infrastructure]]
-- [[06 - Capital Markets/Capital Markets|Capital Markets]]
-- [[07 - Fraud & Risk/Fraud & Risk|Fraud & Risk]]
-- [[08 - Frameworks & Models/Frameworks & Models|Frameworks & Models]]
-- [[09 - Company Teardowns/Company Teardowns|Company Teardowns]]
-- [[10 - Regulatory Filings/Regulatory Filings|Regulatory Filings]]
+- [[Payments Infrastructure]]
+- [[Banking & Regulation]]
+- [[Embedded Finance]]
+- [[Stablecoins & Crypto Rails]]
+- [[Lending Infrastructure]]
+- [[Capital Markets]]
+- [[Fraud & Risk]]
+- [[Frameworks & Models]]
+- [[Company Teardowns]]
+- [[Regulatory Filings]]
 
 ## How to use this vault
 - Use the **graph view** (bottom left) to explore connections between concepts

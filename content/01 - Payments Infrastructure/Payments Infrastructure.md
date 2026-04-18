@@ -18,5 +18,11 @@ Map of Content for Payments Infrastructure.
 - [[UPI Architecture]]
 - [[SWIFT vs Correspondent Banking]]
 
+## Notes
+- [[Card Network Economics]]
+- [[FedNow vs RTP]]
+- [[UPI Architecture]]
+- [[SWIFT vs Correspondent Banking]]
+
 ## Connections
 - 

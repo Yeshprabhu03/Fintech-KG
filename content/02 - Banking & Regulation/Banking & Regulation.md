@@ -16,5 +16,9 @@ Map of Content for Banking & Regulation.
 - [[BaaS Licensing Models]]
 - [[Open Banking Global Comparison]]
 
+## Notes
+- [[BaaS Licensing Models]]
+- [[Open Banking Global Comparison]]
+
 ## Connections
 - 
