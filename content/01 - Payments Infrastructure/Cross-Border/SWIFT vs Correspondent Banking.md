@@ -45,3 +45,7 @@ Fintechs are increasingly looking at [[Stablecoin Settlement Mechanics]] (e.g., 
 ### B2B Cross-Border
 While P2P cross-border has been "solved" by companies like Wise, B2B cross-border (larger amounts, complex documentation) still largely runs on the SWIFT/Correspondent model. Builders in this space should focus on **Virtual Account** infrastructure, which allows a company to hold "local" bank details in multiple countries, effectively turning a cross-border transaction into two local ones. Many regions are looking at [[UPI Architecture]] as a potential blueprint for connecting regional real-time rails.
 
+
+## Connections
+- Parent: [[Payments Infrastructure]]
+- Related: [[Stablecoin Settlement Mechanics]], [[UPI Architecture]]

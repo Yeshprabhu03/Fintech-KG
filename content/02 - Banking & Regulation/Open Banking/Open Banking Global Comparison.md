@@ -30,4 +30,5 @@ For builders in lending (the [[05 - Lending Infrastructure/Lending Infrastructur
 In the EU/UK, Open Banking allows fintechs to bypass [[Card Network Economics]] by initiating a direct transfer from the customer's bank account at checkout. This "Pay-by-Bank" model is significantly cheaper for merchants but lacks the chargeback protection customers are used to with cards.
 
 ## Connections
-- 
+- Parent: [[Banking & Regulation]]
+- Related: [[BaaS Licensing Models]], [[UPI Architecture]]

@@ -42,3 +42,7 @@ For builders in the [[Embedded Finance Stack]], card economics are the foundatio
 Understanding the "interchange leg" is critical for unit economics. For example, debit card interchange is often capped in the US (Durbin Amendment), while credit card interchange is not, leading to the proliferation of "credit-builder" cards in the fintech space.
 
 Builders must also navigate the complexity of "Total Cost of Payments," which includes not just these network fees but also chargeback costs and PCI compliance. As seen in the [[Stripe Teardown|development of Stripe]], the goal for many modern platforms is to abstract this complexity away while capturing a piece of the pie.
+
+## Connections
+- Parent: [[Payments Infrastructure]]
+- Related: [[Four-Party Payment Model]], [[Stripe Teardown]]

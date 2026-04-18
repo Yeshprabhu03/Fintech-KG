@@ -55,3 +55,7 @@ As the [[BaaS Licensing Models|regulatory environment shifts]], many large platf
 ### Data as the Moat
 The true competitive advantage in the embedded finance stack is data. Platforms that can ingest data via [[Open Banking Global Comparison|Open Banking]] or internal sales data can offer "pre-approved" financial products, fundamentally changing the risk profile of the business. This becomes especially profitable when capturing [[Card Network Economics|Interchange Revenue]].
 
+
+## Connections
+- Parent: [[Embedded Finance]]
+- Related: [[BaaS Licensing Models]], [[Stripe Teardown]]

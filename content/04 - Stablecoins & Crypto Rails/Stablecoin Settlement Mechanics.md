@@ -23,4 +23,5 @@ Because stablecoins live on blockchains, they can be "programmed." A builder cou
 Stablecoins are the primary tool for fintechs experimenting with **Tokenized Deposits** and **Yield-Bearing Accounts**. However, builders must navigate a complex regulatory landscape (e.g., MiCA in Europe, upcoming stablecoin legislation in the US). Using a stablecoin like USDC provides a level of "compliance-by-proxy" because the issuer (Circle) is already a regulated money transmitter.
 
 ## Connections
-- 
+- Parent: [[Stablecoins & Crypto Rails]]
+- Related: [[SWIFT vs Correspondent Banking]], [[FedNow vs RTP]]

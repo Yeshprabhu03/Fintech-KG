@@ -49,3 +49,7 @@ We are currently in a "BaaS Winter." Regulators have issued numerous Consent Ord
 
 ### Unit Economics
 In the [[Embedded Finance Stack]], the license holder takes a significant cut of the revenue (often a fee per account and a slice of the [[Card Network Economics|Interchange]]). Builders must decide if the speed of a sponsor bank is worth the long-term margin compression compared to the (much harder) path of obtaining a limited or full-charter license.
+
+## Connections
+- Parent: [[Banking & Regulation]]
+- Related: [[Embedded Finance Stack]], [[Open Banking Global Comparison]]

@@ -51,3 +51,7 @@ For builders looking at [[FedNow vs RTP]] in the US, UPI proves that:
 1. **Account-to-Account (A2A)** payments can displace cards for small-ticket P2P and P2M (peer-to-merchant) transactions.
 2. **Standardization beats fragmentation.** By forcing banks to play on a level protocol field, UPI enabled a massive wave of application-level innovation.
 3. **Identity is the bottleneck.** Until the US has a portable "VPA-like" identifier for bank accounts, adoption of real-time rails will be hindered by the friction of entering routing numbers.
+
+## Connections
+- Parent: [[Payments Infrastructure]]
+- Related: [[FedNow vs RTP]], [[Open Banking Global Comparison]]

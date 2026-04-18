@@ -49,3 +49,7 @@ Stripe started as a simple "Pay" button. They used that wedge to capture transac
 
 ### The Aggregator Risk
 For builders, relying on Stripe is a double-edged sword. It is the fastest way to market, but as a PayFac, Stripe has total control over your business. If your business model is deemed "high risk," Stripe can freeze your funds instantly. This is why many "Scale-ups" eventually move to a direct-to-acquirer model to reduce "platform risk."
+
+## Connections
+- Parent: [[Company Teardowns]]
+- Related: [[Embedded Finance Stack]], [[Card Network Economics]]

@@ -26,4 +26,5 @@ The Four-Party Model is the canonical framework for understanding how credit and
 - **Risk Management**: Managing [[07 - Fraud & Risk/Fraud & Risk|Fraud & Risk]] on the consumer side.
 
 ## Connections
-- 
+- Parent: [[Frameworks & Models]]
+- Related: [[Card Network Economics]], [[Stripe Teardown]]

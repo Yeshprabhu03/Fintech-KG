@@ -31,4 +31,5 @@ Compared to [[Card Network Economics|Legacy Card Loops]], these rails offer sign
 However, moving money instantly requires more robust [[07 - Fraud & Risk/Fraud & Risk|Fraud & Risk]] controls. Unlike ACH, there is no "undo" button once an RTP or FedNow transaction is authorized. Settlement is final and irrevocable. As we have seen in global markets like India's [[UPI Architecture]], instant rails accelerate the velocity of money but also the velocity of social engineering fraud.
 
 ## Connections
-- 
+- Parent: [[Payments Infrastructure]]
+- Related: [[UPI Architecture]], [[Stablecoin Settlement Mechanics]]
