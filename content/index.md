@@ -1,7 +1,5 @@
 ---
 title: Fintech Brain
-slug: index
-aliases: [/]
 last_reviewed: 2026-04-18
 ---
 
